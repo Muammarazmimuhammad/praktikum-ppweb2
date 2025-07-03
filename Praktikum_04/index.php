@@ -15,7 +15,7 @@
         ?>
 
         <div class="container">
-            <h2>Selamat Datang di Perpustakaan STT-NF</h2>
+            <h2>Welcome to Perpus NF</h2>
             <p>Silahkan isi buku tamu dibawah ini</p>
             <hr />
             <form method="post" action="proses.php">

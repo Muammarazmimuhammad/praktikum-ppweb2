@@ -33,13 +33,13 @@ switch ($grade) {
         $predikat = 'Memuaskan';
         break;
     case 'C':
-        $predikat = 'Cukup';
+        $predikat = 'Cukup Lumayan';
         break;
     case 'D':
         $predikat = 'Kurang';
         break;
     case 'E':
-        $predikat = 'Sangat Kurang';
+        $predikat = 'Buruk';
         break;
     default:
         $predikat = 'Tidak Ada';
